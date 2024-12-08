@@ -4,3 +4,4 @@ numpy
 matplotlib
 yfinance
 protobuf==3.20.3
+setuptools>=58.0.0
