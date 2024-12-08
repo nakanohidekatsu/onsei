@@ -3,3 +3,4 @@ pandas
 numpy
 matplotlib
 yfinance
+protobuf==3.20.3
